@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'UCIChatBot'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9E8F7F8085D94EB1A361341F16EBA73C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_70122747ABB94704AA8D4E2B4CBAA313 }}
